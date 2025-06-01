@@ -1,0 +1,9 @@
+{
+    "buildVersion":"210",
+    "crazy": {
+        "bannerIds":["banner-portrait"]
+    },
+    "bannerReloadTime": 61000,
+    "bannerReloadTimeOnError" : 30000,
+    "autoPreloadBanner": false
+}
